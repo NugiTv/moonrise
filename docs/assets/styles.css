@@ -9,9 +9,6 @@ html {
 
 body {
     background-image: url("/media/background.png");
-    /* Add the blur effect */
-    filter: blur(8px);
-        -webkit-filter: blur(8px);
 
     /* Full height */
     height: 100%;
