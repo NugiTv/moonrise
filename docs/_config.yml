@@ -5,7 +5,7 @@ url: "https://nugitv.github.io"
 baseurl: "/nations"
 siteIcon: /media/NewAge.png
 siteYear: 2023
-siteFooterlink: /about
+#siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
