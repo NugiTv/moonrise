@@ -31,7 +31,7 @@ discordChannelID: 1103401673558339686
 # siteNav:
    - name: Server Map
      url: map
-     newtab: false
+#     newtab: false
 #   - name: Screenshots
 #     url: screenshots
 #   - name: About
