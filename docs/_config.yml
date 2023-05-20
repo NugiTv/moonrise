@@ -22,6 +22,8 @@ discordInvite: https://discord.gg/4stRHa6CaQ
 discordServerID: 1071538312273211432
 discordChannelID: 1103401673558339686
 
+# Maps
+mapLink: map.newagerp.us:8100
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
 # #   name - The title on the navbar
