@@ -29,8 +29,8 @@ discordChannelID: 1103401673558339686
 # #   newtab - Whether link should open in new tab
 # 
 # siteNav:
-   - name: Server Map
-     url: map
+#   - name: Server Map
+#     url: map
 #     newtab: false
 #   - name: Screenshots
 #     url: screenshots
