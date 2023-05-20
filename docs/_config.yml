@@ -1,7 +1,7 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://nugitv.github.io/"
+url: "newagerp.us/"
 baseurl: "/nations"
 siteIcon: /media/NewAge.png
 siteYear: 2023
@@ -29,8 +29,8 @@ discordChannelID: 1103401673558339686
 # #   newtab - Whether link should open in new tab
 # 
 # siteNav:
-   - name: Server Map
-     url: map
+#   - name: Server Map
+#     url: map
 #     newtab: false
 #   - name: Screenshots
 #     url: screenshots
