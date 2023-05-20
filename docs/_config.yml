@@ -2,7 +2,7 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://newagerp.us/"
-baseurl: ""
+baseurl: "/nations"
 siteIcon: /media/NewAge.png
 siteYear: 2023
 #siteFooterlink: /about
