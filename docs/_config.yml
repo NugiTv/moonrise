@@ -4,6 +4,7 @@
 url: "newagerp.us"
 baseurl: ""
 siteIcon: /media/NewAge.png
+siteLogo: /media/logo-1.png
 siteYear: 2023
 #siteFooterlink: /about
 showinSearchEngines: true
