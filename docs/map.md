@@ -1,4 +1,4 @@
 ---
-layout: redirect
-tourl: https://github.com/webbukkit/dynmap/wiki
+layout: iframe
+tourl: http://map.newagerp.us:8100/
 ---
