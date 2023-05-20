@@ -30,8 +30,8 @@ discordChannelID: 1103401673558339686
 # 
 # siteNav:
    - name: Server Map
-     url: map.newagerp.us:8100
-     newtab: false
+     url: map
+#     newtab: false
 #   - name: Screenshots
 #     url: screenshots
 #   - name: About
